@@ -5,7 +5,11 @@ esta Atividae consiste em utilizar um serviço de rede VPN (Virtual private netw
 
 Nesta Atividade criaremos um servidor VPN e iremos se conectar ao mesmo.
 
-utilizaremos openvpn simples e intuitivo!
+Utilizaremos openvpn simples e intuitivo!
+
+neste link podemos baixar o openvpn Para diversas verções ubuntu:
+
+https://openvpn.net/index.php/access-server/download-openvpn-as-sw/113.html?osfamily=Ubuntu
 
 Abaixo um tutorial para configuralo por linha de comando:
 
